@@ -1,0 +1,7 @@
+SAMPLE_CT,Validation,PrimaryPhenotype,PubmedId,Variant38
+2,unknown,congenital_heart_disease,23665959,1_109236443_G/A
+1,unknown,autism,25363760,1_92080586_G/A
+1,unknown,developmentalDisorder,28135719,7_44147661_G/A
+2,unknown,developmentalDisorder,28135719,10_75022006_G/A
+1,yes,epilepsy,23934111,5_179615591_T/C
+1,unknown,developmentalDisorder,28135719,2_222295529_T/C

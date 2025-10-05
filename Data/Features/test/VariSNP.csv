@@ -1,0 +1,12 @@
+heterozygosity,minor_allele_frequency,validation,clinical_significance,Variant38
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,10_96223832_C/T
+0.0,2.0E-4,byFrequency; by1000G,,12_120738438_C/T
+0.0,4.0E-4,byFrequency; by1000G,,1_1437411_C/T
+0.0,2.0E-4,byFrequency; by1000G,,1_171636420_C/T
+0.0,6.0E-4,byFrequency; by1000G,,1_29109377_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,21_44521883_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,2_219420941_C/T
+0.0,0.001,byFrequency; by1000G,,3_194447957_T/C
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,5_177441763_C/T
+0.0,8.0E-4,byFrequency; by1000G,,8_120289658_G/A
+0.0,5.0E-4,byFrequency; by1000G; byCluster,,X_136648362_G/A

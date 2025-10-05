@@ -1,0 +1,112 @@
+heterozygosity,minor_allele_frequency,validation,clinical_significance,Variant38
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,10_100972951_C/T
+0.0,2.0E-4,byFrequency; by1000G,,10_116567792_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,10_121517380_C/A
+0.0,2.0E-4,byFrequency; by1000G,,10_92649974_A/G
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,11_102616955_C/T
+0.0,2.0E-4,byFrequency; by1000G,,11_112037454_A/C
+0.0,8.0E-4,byFrequency; by1000G,,11_121128335_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Likely benign,11_121165304_G/A
+0.0,6.0E-4,byFrequency; by1000G,,11_56094067_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,11_61951905_T/C
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,11_68812439_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Likely benign,12_112453348_C/T
+0.0,2.0E-4,byFrequency; by1000G,,12_14882157_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,12_47855686_C/T
+0.0,4.0E-4,byFrequency; by1000G,,12_57564197_T/A
+0.0,4.0E-4,byFrequency; by1000G,,12_5976156_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,13_113117541_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,14_64805017_G/A
+0.0,4.0E-4,byFrequency; by1000G,,15_40001188_T/G
+0.0,8.0E-4,byFrequency; by1000G,,15_40774368_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,15_42410620_C/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Likely benign,15_43604111_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,15_57232295_G/C
+0.0,4.0E-4,byFrequency; by1000G,,16_2090330_G/A
+0.0,6.0E-4,byFrequency; by1000G; byCluster,,16_2090734_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,16_67166368_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,16_70255740_G/A
+0.0,0.001,byFrequency; by1000G; byCluster,,16_74719003_G/A
+0.0,2.0E-4,byFrequency; by1000G,,16_88646194_G/A
+0.0,2.0E-4,byFrequency; by1000G,,17_28735362_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,17_44374384_C/T
+0.0,6.0E-4,byFrequency; by1000G; byCluster,,17_63917766_C/G
+0.0,8.0E-4,byFrequency; by1000G,,17_7203470_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,18_57554305_C/T
+0.0,2.0E-4,byFrequency; by1000G,,18_57571537_C/T
+0.0,2.0E-4,byFrequency; by1000G,,19_11105437_G/A
+0.0,0.001,byFrequency; by1000G,,19_17486848_G/A
+0.0,4.0E-4,byFrequency; by1000G,,1_16053741_C/T
+0.0,6.0E-4,byFrequency; by1000G,,1_161168055_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,1_203503579_C/T
+0.0,4.0E-4,byFrequency; by1000G,,1_209790844_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,1_212080704_G/A
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,1_222628597_C/T
+0.0,2.0E-4,byFrequency; by1000G,,1_45014964_A/G
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,1_94030496_C/T
+0.0,4.0E-4,byFrequency; by1000G,,20_63414093_G/C
+0.0,2.0E-4,byFrequency; by1000G,,21_33582221_T/G
+0.0,6.0E-4,byFrequency; by1000G,,21_43776216_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,22_17203599_G/A
+0.0,2.0E-4,byFrequency; by1000G,,2_166039425_A/G
+0.0,2.0E-4,byFrequency; by1000G,,2_174753606_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,2_188998691_C/T
+0.0,2.0E-4,byFrequency; by1000G,,2_237361748_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,2_32063996_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,2_86252011_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Benign,3_193643046_T/G
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,3_57198855_C/T
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,4_176193462_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,4_88131187_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,5_179616202_G/A
+0.0,2.0E-4,byFrequency; by1000G,,5_73909873_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,7_107712595_G/A
+0.0,6.0E-4,byFrequency; by1000G,,7_129208811_G/A
+0.0,2.0E-4,byFrequency; by1000G,,7_150950924_G/A
+0.0,0.001,byFrequency; by1000G,,7_150950933_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,8_10608938_A/G
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,8_142876250_G/A
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,8_42430201_G/A
+0.0,4.0E-4,byFrequency; by1000G; byCluster,other,10_116597853_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,other,10_43114541_C/T
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,11_17498165_G/A
+0.0,6.0E-4,byFrequency; by1000G,,11_47333245_G/A
+0.0,4.0E-4,byFrequency; by1000G,,11_66523882_G/A
+0.0,2.0E-4,byFrequency; by1000G,Likely benign,11_77162144_C/T
+0.0,8.0E-4,byFrequency; by1000G,,13_113118759_G/A
+0.0,6.0E-4,byFrequency; by1000G; byCluster,,15_48534159_A/G
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,17_80105132_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Uncertain significance,19_1223105_G/A
+0.0,6.0E-4,byFrequency; by1000G; byCluster,Uncertain significance,19_41410816_C/T
+0.0,4.0E-4,byFrequency; by1000G,,1_203498796_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,Benign,1_40818620_C/T
+0.0,4.0E-4,byFrequency; by1000G,,22_39381875_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,other,2_151492117_T/C
+0.0,0.0,byFrequency; by1000G,,2_58160108_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,2_71520904_T/G
+0.0,6.0E-4,byFrequency; by1000G; byCluster,Uncertain significance,2_71679235_G/A
+0.0,4.0E-4,byFrequency; by1000G,,3_48570639_C/T
+0.0,2.0E-4,byFrequency; by1000G,,4_186588985_C/T
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,7_107663356_C/G
+0.0,4.0E-4,byFrequency; by1000G,,7_107712586_A/G
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,8_93804878_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,9_124493069_G/A
+0.0,6.0E-4,byFrequency; by1000G,,9_95477562_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,9_97441845_A/G
+0.0,5.0E-4,byFrequency; by1000G; byCluster,,X_153736245_G/A
+0.0,5.0E-4,byFrequency; by1000G; byCluster,,X_154953929_A/G
+0.0,3.0E-4,byFrequency; by1000G; byCluster,,X_47242504_G/A
+0.0,5.0E-4,byFrequency; by1000G; byCluster,,X_64919075_C/T
+0.0,3.0E-4,byFrequency; by1000G; byCluster,,X_68829848_C/T
+0.0,8.0E-4,byFrequency; by1000G,,11_108316023_T/C
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,11_67611569_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,13_100368574_G/A
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,13_51974098_G/C
+0.0,4.0E-4,byFrequency; by1000G,,17_80105096_C/T
+0.0,4.0E-4,byFrequency; by1000G,,1_113911399_C/T
+0.0,4.0E-4,byFrequency; by1000G; byCluster,other,3_98264938_C/T
+0.0,2.0E-4,byFrequency; by1000G; byCluster,,4_25145092_C/T
+0.0,6.0E-4,byFrequency; by1000G,,6_42057513_G/A
+0.0,2.0E-4,byFrequency; by1000G,,7_107701928_G/A
+0.0,4.0E-4,byFrequency; by1000G; byCluster,,7_142943328_G/A
+0.0,3.0E-4,byFrequency; by1000G; byCluster,,X_21743750_C/T

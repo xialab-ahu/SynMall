@@ -1,0 +1,636 @@
+Disease,PMID,Classification,Strength_of_Evidence,Variant38
+Familial hypercholesterolemia,21418584,,2 (Case-control studies significantly associate the variant to disease),19_11102773_C/T
+Hypohidrotic X-linked ectodermal dysplasia,18666859|27657131|28492532,,,X_70029538_G/A
+Galactosylceramide beta-galactosidase deficiency;not provided,23891399|25741868,,,14_87992970_C/G
+Not provided,,,,10_75022006_G/A
+Nonsyndromic cleft Palate,27018475,Splicing regulation,3 (Confirmed de novo inheritance in relevant disease-associated gene),1_24337687_C/T
+Cutaneous disease,20130592,,Other,17_41769418_C/T
+Adenomatous polyposis coli,19196998,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),5_112827247_G/A
+"Deafness, autosomal recessive 3",,,,17_18155225_G/A
+Spastic paraplegia,25609768,Splicing regulation,Other,1_228175028_A/G
+"Cachexia, strabismus, severe intellectual disability, epilepsy and abnormal respiratory rhythm",26923739,,Other,13_101089846_C/T
+Intellectual disability,26571461,Splicing regulation,Other,X_71297938_G/A
+"Breast-ovarian cancer, familial 2;Hereditary breast and ovarian cancer syndrome;Hereditary cancer-predisposing syndrome;not provided",25382762,,,13_32376791_G/A
+Breast and ovarian cancer,19267246,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),13_32326282_G/A
+Nonsyndromic deafness,17033161,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),1_40818620_C/T
+"Breast-ovarian cancer, familial 1;Hereditary cancer-predisposing syndrome",10486320|11802209|12759930|15024741|18489799|23239986|23893897|26295337|26467025|7493024|9649133,,,17_43090944_C/T
+Breast and ovarian cancer,18489799,Splicing regulation,Other,17_43090944_C/T
+Infantile onset spinocerebellar ataxia,16135556,,Other,10_100989687_C/T
+Mitochondrial DNA depletion syndrome 7 (hepatocerebral type),NBK3795|16135556|20301746,,,10_100989687_C/T
+Glycogen storage disease type Ia,31109299,Splicing regulation,Other,17_42911000_G/T
+Glycogen storage disease type 1A,NBK1312|10748407|10797430|20301489|23486339|25741868|7668282|8163185|9630072,,,17_42911000_G/T
+Glycogen storage disease type la,7668282,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_42911000_G/T
+Periventricular nodular heterotopia,16299064,Splicing regulation,Other,X_154364625_G/A
+Cerebral creatine deficiency syndrome;Deficiency of guanidinoacetate methyltransferase;not provided,NBK3794|11978605|16855203|17171576|19027335|20301745|22019491|23660394|24415674|2476685|26003046|28492532|8651275,,,19_1399793_C/T
+Guanidinoacetate methyltransferase deficiency,8651275,Splicing regulation,Other,19_1399793_C/T
+Guanidinoacetate methyltransferase deficiency,24766785,Splicing regulation,Other,19_1399793_C/T
+Neonatal intrahepatic cholestasis caused by citrin deficiency,NBK1181|18392553|20301360,,,7_96321942_C/T
+Kartagener syndrome,NBK1122|20301301,,,21_42485804_C/T
+X-linked Hydrocephalus,9643285,Splicing regulation,Other,X_153870123_G/A
+"Hutchinson-Gilford progeria syndrome, atypical;Hutchinson-Gilford syndrome",NBK1121|15317753|20301300|22065502|25649378,,Other,1_156138757_G/A
+Not provided,,,,2_166045043_C/T
+"Glycogen storage disease, type II",26160551,Splicing regulation,Other,17_80110055_G/A
+Rett syndrome,23866855,Splicing regulation,Other,X_154097618_G/A
+Not specified,,,,X_154957140_C/A
+Joubert syndrome 23;Short-rib thoracic dysplasia 14 with polydactyly,26386044|28492532|28497568,,,14_58448363_C/T
+Uterine Corpus Endometrial Carcinoma,26437032,Splicing regulation,Other,2_46950526_G/A
+Werner syndrome,,,,8_31067089_A/G
+Autosomal recessive bestrophinopathy,21203346,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_61951908_C/T
+"Hereditary cancer-predisposing syndrome;Neurofibromatosis, type 1",17311297|18041031|28492532|29449315,,,17_31229324_G/A
+Malignant tumor of prostate,26046662,,,5_75590368_G/A
+"17alpha-Hydroxylase/17,20-lyase deficiency",21282350,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_102830966_C/T
+Breast invasive carcinoma,26437032,Splicing regulation,Other,12_82965744_G/A
+Autosomal Recessive NonSyndromic Hearing Loss,24949729,Splicing regulation,Other,17_18166521_G/A
+Homocysteinemia due to MTHFR deficiency,28492532,,,1_11793907_C/T
+Methylenetetrahydrofolate reductase deficiency,26872964,Splicing regulation,Other,1_11793907_C/T
+Epithelial recurrent erosion dystrophy,27309958,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_104037688_G/A
+Corneal Erosions,26786512,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_104037688_G/A
+Epithelial recurrent erosion dystrophy,14562173|19710953|25676728|2663347|26786512|27309958,,,10_104037688_G/A
+Not provided,,,,3_48578354_G/A
+Familial hypercholesterolemia,,,,19_11105572_C/T
+Osler hemorrhagic telangiectasia syndrome;not specified,28492532,,,9_127843094_C/T
+Hirschsprung's disease,10090908,,2 (Case-control studies significantly associate the variant to disease),10_43114541_C/T
+HSCR,8852659,Splicing regulation,Other,10_43114541_C/T
+Mucolipidosis type IV,NBK1214|17239335|20301393,,,19_7533651_A/T
+Congenital myasthenic syndrome,22661499,Splicing regulation,Other,4_3476523_C/T
+Meier-Gorlin syndrome and craniosynostosis,27374770,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),22_19482818_C/T
+Beta-ketothiolase deficiency,27748876,Splicing regulation,Other,11_108143993_C/T
+Schizophrenia,21878961,,Other,22_39381875_C/T
+Type 1 von Willebrand disease,21393328,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),12_5983175_G/A
+Congenital disorder of deglycosylation,25900930|27388694,,,3_25737407_G/A
+Glanzmann's thrombasthenia,8878424,Splicing regulation,Other,17_47291088_G/A
+Arrhythmogenic right ventricular dysplasia,17041889,,2 (Case-control studies significantly associate the variant to disease),12_32796114_G/A
+Becker muscular dystrophy;Duchenne muscular dystrophy,,,,X_32380549_T/A
+Hereditary cancer-predisposing syndrome;Hereditary nonpolyposis colon cancer;Lynch syndrome;not provided,12183410|15555211|16341550|18561205|19419416|19731080|26467025|28492532,,,3_37020463_G/A
+Nonpolyposis colorectal cancer,12183410,Splicing regulation,Other,3_37020463_G/A
+Hereditary nonpolyposis colon cancer syndrome,16395668,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),3_37017597_C/T
+Hereditary cancer-predisposing syndrome;Lynch syndrome,16395668|16736289|18561205|25741868|26761715,,,3_37017597_C/T
+Nonpolyposis colorectal cancer,18561205,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_37017597_C/T
+Hereditary nonpolyposis colorectal cancer,11208710,Splicing regulation,Other,3_37048609_G/A
+Hereditary nonpolyposis colorectal cancer,16341550,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),3_37042331_G/A
+Nonpolyposis colorectal cancer,18561205,,Other,3_37042331_G/A
+Hereditary cancer-predisposing syndrome;Hereditary nonpolyposis colon cancer;Lynch syndrome;not provided,11151427|14514376|14635101|15849733|16216036|16341550|16395668|16451135|17576681|18561205|18931482|19669161|20223024|21387278|21598002|24278394|24456667|25741868|26300997|26467025|28492532|8808596,,,3_37042331_G/A
+Nonpolyposis colorectal cancer,8808596,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),3_37042331_G/A
+Hereditary nonpolyposis colorectal cancer,16341550,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),2_47429940_A/G
+Ovarian cancer,24728189,Splicing regulation,Other,2_47429940_A/G
+Hereditary nonpolyposis colon cancer;Lynch syndrome;Lynch syndrome II;not provided,28492532,,,3_37047683_G/A
+Hereditary cancer-predisposing syndrome;Lynch syndrome;not provided,28492532,,,2_47480871_G/A
+Alpha-thalassemia,15481895,Splicing regulation,Other,16_172981_C/T
+"Frontotemporal dementia with parkinsonism, chromosome 17 type",23736532,Splicing regulation,Other,17_46014272_G/A
+Frontotemporal dementia,11911984,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_46010375_T/C
+Frontotemporal dementia;not provided,11117553|8926492,,,17_46010375_T/C
+Primary progressive aphasia,22818528,,Other,17_46010375_T/C
+Familial dementia,11117553,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_46010375_T/C
+Stargardt disease,10090887,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_94098794_C/A
+Autosomal recessive retinal diseases,19074458,,3 (Significant segregation in affected family members (LOD >2)),1_94098794_C/A
+Stargardt disease,26261413,,Other,1_94098794_C/A
+Stargardt disease 1;not provided,10090887|19074458|22264887|22968130|23695285|23891399|24453473|26261413|28041643|28118664,,,1_94098794_C/A
+Asphyxiating thoracic dystrophy,24140113,Splicing regulation,Other,2_27449562_C/T
+Pitt-Hopkins syndrome;not provided,18414213|25741868|29695756,,,18_55261466_C/T
+Hereditary cancer-predisposing syndrome;Hereditary diffuse gastric cancer;not provided,15831593|17221870|17545690|18427545|19269290|19725995|19965908|21681551|23709761|26025002|27682646|27995193|28492532,,,16_68812263_G/A
+Ataxia-telangiectasia syndrome;Hereditary cancer-predisposing syndrome;not provided,25741868|26693373|28492532|9792409,,,11_108332037_G/A
+"Ehlers-Danlos syndrome, type 4",10706896|9399899,,,2_188998718_G/A
+"Ehlers-Danlos syndrome, type 4;not provided",,,,2_189010890_G/A
+"Ehlers-Danlos syndrome, type 4",,,,2_189001450_G/A
+Multiple congenital anomalies-hypotonia-seizures syndrome 1,24253414,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),18_62143306_C/T
+Ataxia-telangiectasia,9450906,Splicing regulation,Other,11_108281168_G/A
+Ataxia telangiectasia,22071889,Splicing regulation,Other,11_108281168_G/A
+Ataxia-telangiectasia syndrome;Hereditary cancer-predisposing syndrome;not provided,16941484|17124347|17910737|19691550|21965147|22071889|22213089|25741868|27599564|28492532|8845835|9443866|9497252|9887333,,,11_108281168_G/A
+Hutchinson-Gilford progeria syndrome,30911407,Splicing regulation,2 (In vivo data from mammalian model organisms suggest an impact on function),1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,26670336,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,12702809,Splicing regulation,Other,1_156138613_C/T
+Progeria,22419169,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,17028399,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,17459069,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,23969228,Protein synthesis,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,25556323,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,22611635,,Other,1_156138613_C/T
+Dry scaly skin,24305605,,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,21791255,,Other,1_156138613_C/T
+Atypical progeroid syndromes,19842191,,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,23141186,,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,24603298,,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,17511383,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,22893709,,2 (In vivo data from mammalian model organisms suggest an impact on function),1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,25216752,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,25556323,,1 (Variant is rare or absent in large population studies),1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,15982412,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,26890144,,Other,1_156138613_C/T
+Hutchinson-Gilford syndrome;Laminopathy;Lethal tight skin contracture syndrome;Mandibuloacral dysostosis;not provided,NBK1121|12702809|12714972|12768443|15032975|15184648|15317753|15342704|15793835|16126733|16738054|17076270|17469202|18414213|19172989|20301300|23891399,,,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,22148005,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,21251803,,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,21875900,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,17469202,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,21738662,Splicing regulation,Other,1_156138613_C/T
+Hutchinson-Gilford progeria syndrome,15793835,Splicing regulation,Other,1_156138613_C/T
+Fanconi anaemia,23613520,Splicing regulation,Other,2_58160108_C/T
+"Cardiovascular phenotype;Charcot-marie-tooth disease, type 2;Dilated cardiomyopathy 1A;Limb-girdle muscular dystrophy;Limb-girdle muscular dystrophy, type 1B;not provided",17377071|24033266|24503780|24915601|28492532|28798025,,,1_156136110_C/T
+Limb girdle Muscular dystrophy,24915601,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_156136110_C/T
+Neuromuscular or cardiac disease,17377071,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_156136110_C/T
+Primary open-angle glaucoma,17359525,mRNA structure,2 (Case-control studies significantly associate the variant to disease),1_203498796_C/T
+Cobalamin C deficiency,23837176,Splicing regulation,Other,1_45507550_G/A
+Paraganglioma,17848412,Splicing regulation,Other,1_17027749_C/T
+Splicing regulation,18023225,Splicing regulation,Other,X_19353146_C/T
+Not provided,,,,X_19353146_C/T
+Cortisone reductase deficiency 1,10522997|18628520,,,1_9262273_G/A
+Cortisone reductase deficiency,18628520,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_9262273_G/A
+"Parkinsonism with spasticity, X-linked",20629132|23595882,,,X_40597293_C/T
+X-linked parkinsonism with spasticity,23595882,Splicing regulation,Other,X_40597293_C/T
+Usher syndrome type 1,11857743,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_71785100_G/A
+"Usher syndrome, type 1D",11857743|21738395|29739316,,,10_71785100_G/A
+Aicardi-Goutieres syndrome,23592335,Splicing regulation,Other,19_12806742_G/A
+Aicardi Goutieres syndrome 4,NBK1475|20301648|21454563|23592335,,,19_12806742_G/A
+Aicardi Goutieres syndrome 4,NBK1475|20301648|23592335,,,19_12806748_C/T
+Aicardi-Goutieres syndrome,23592335,Splicing regulation,Other,19_12806748_C/T
+Biotinidase deficiency;not provided,10400129|11865279|25741868|28492532|9396567,,,3_15642057_G/A
+Cystic fibrosis,9150159,mRNA structure,Other,7_117531114_G/A
+Cystic fibrosis,20190016,Splicing regulation,Other,7_117603553_G/T
+Terminal osseous dysplasia,20598277,Splicing regulation,3 (Significant segregation in affected family members (LOD >2)),X_154354825_C/T
+Terminal osseous dysplasia,NBK1393|10982965|15864382|17152064|20301567|20598277|9800904,,,X_154354825_C/T
+Terminal osseous dysplasia with pigmentary defects,25614868,Splicing regulation,Other,X_154354825_C/T
+"Congenital or postnatal microcephaly, disproportionate brainstem and cerebellar hypoplasia",19165920,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),X_41636578_C/T
+Congenital disorder of glycosylation type 1D,15108280|16006436,,,3_184248776_G/A
+Congenital disorder of glycosylation type Id,15108280,Splicing regulation,Other,3_184248776_G/A
+Salla Disease,15172001,Splicing regulation,Other,6_73644407_C/T
+Unverricht-lundborg disease,22154554,Splicing regulation,Other,21_43776204_C/T
+Unverricht-lundborg syndrome,NBK1142|20301321|22154554,,,21_43776204_C/T
+Myoclonic epilepsy,26937413,Protein synthesis,Other,21_43776204_C/T
+Unverricht-lundborg syndrome,NBK1142|11814737|20301321,,,21_43774658_C/T
+Mucopolysaccharidosis type VII,7633414,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),7_65967767_G/A
+Limb-girdle muscular dystrophy type 2A,18563459,Splicing regulation,Other,15_42360114_G/A
+Galactosaemia,22944367,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),9_34649041_C/T
+Not provided,,,,22_38132831_C/T
+Young-onset parkinsonism,22213678,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),22_38132831_C/T
+PLA2G6-Associated Neurodegeneration,27395053,Splicing regulation,Other,22_38132831_C/T
+Methylenetetrahydrofolate reductase deficiency,25736335,Splicing regulation,Other,1_11794385_C/T
+Hypertrophic cardiomyopathy,18273486,mRNA structure,Other,11_47333245_G/A
+Beta+ thalassaemia,7786794,Splicing regulation,Other,11_5226932_G/A
+Beta-thalassemia,10776695|25677748|3828533,,,11_5226932_G/A
+Primary lateral sclerosis,20077034,Splicing regulation,Other,2_201754610_G/C
+Oral-facial-digital syndrome,NBK1188|20301367,,,X_13735346_G/A
+Severe subacute GM2 gangliosidosis,15108204,Splicing regulation,Other,15_72349093_A/T
+Neurological deficit,15108204,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_72349093_A/T
+Breast and ovarian cancer,10638982,,Other,13_32379913_G/A
+"Breast-ovarian cancer, familial 2;Breast-ovarian cancer, familial 2;Familial cancer of breast;Fanconi anemia, complementation group D1;Glioma susceptibility 3;Hereditary breast and ovarian cancer syndrome;Hereditary cancer-predisposing syndrome;Malignant tumor of prostate;Medulloblastoma;Pancreatic cancer 2;Tracheoesophageal fistula;Wilms tumor 1;not provided",10638982|11802209|11897832|16683254|17011978|17148771|17924331|18375895|18403564|18821011|19016756|19656164|19949876|20406929|20507642|21324516|21702907|21965345|21990134|22217648|22340495|22505045|22632462|22798144|22923021|23035815|23451180|24156927|24249303|25382762|25480878|25556971|25741868|25948282|26026974|26295337|26467025|26848529|27000661|27060066|27271530|28492532|9133456,,,13_32379913_G/A
+High grade prostatic intraepithelial neoplasia,23035815,,Other,13_32379913_G/A
+Breast and ovarian cancer,21990134,,Other,13_32379913_G/A
+Breast cancer,22505045,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),13_32379913_G/A
+"Breast-ovarian cancer, familial 2",,,,13_32379913_G/T
+Breast and/or ovarian cancer,22632462,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),13_32379913_G/A
+Pseudoxanthoma elasticum,16086317,,,16_16159482_C/T
+Not provided,9452024,,,X_38403740_G/A
+Analbuminaemia,18154732,Splicing regulation,Other,4_73409469_T/A
+Dilated cardiomyopathy,26383716,Splicing regulation,Other,1_156134975_G/A
+Cardiomyopathy and conduction disorder,20848652,,Other,1_156134975_G/A
+Melanoma,23901115,,Other,2_178759120_G/A
+Melanoma,23901115,,Other,1_248387947_C/T
+Hearing loss,23185506,,Other,7_107712586_A/G
+Pyridoxine-dependent epilepsy;not provided,17721876|19128417|20554659|20814824|22529283|23022070|23430810|23891399|24122892|27438048|28492532,,,5_126568296_C/T
+Alpha-AASA dehydrogenase deficiency,17721876,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),5_126568296_C/T
+Meckel syndrome,17397051,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),8_93804878_G/A
+Not provided,,,,3_48570639_C/T
+Pyruvate kinase deficiency,15953013,Splicing regulation,Other,1_155295437_C/T
+Not provided,,,,3_48576249_C/T
+Dystrophic epidermolysis bullosa,9804332,Splicing regulation,Other,3_48576249_C/T
+Growth hormone deficiency type 1B,21044116,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),7_30977322_G/A
+Cholestanol storage disease,NBK1409|20301583|21073839,,,2_218813096_G/C
+Autosomal-recessive microcephaly with chorioretinopathy,25817018,Splicing regulation,Other,15_43403697_G/T
+"Microcephaly and chorioretinopathy, autosomal recessive, 3;not provided",25741868|25817018,,,15_43403697_G/T
+MUTYH-associated polyposis,19732775,,Other,1_45332574_C/T
+Phenylketonuria,10394930,Splicing regulation,Other,12_102843651_T/C
+Hyperphenylalaninemia,22698810,Splicing regulation,Other,12_102843648_T/A
+Phenylketonuria,24401910,Splicing regulation,Other,12_102843648_T/A
+Phenylketonuria;not provided,11214902|1975096|22698810|24401910|24705691|26503515,,,12_102843648_T/A
+Phenylketonuria,11214902,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),12_102843648_T/A
+"Pseudohypoaldosteronism, type 2",,,,2_224503793_C/T
+Congenital with cores Myopathy,18253926,Splicing regulation,Other,19_38543435_G/A
+Autosomal-recessive polycystic kidney disease,12846734,Splicing regulation,Other,6_52071016_G/A
+Hearing loss,23185506,,Other,7_107663356_C/G
+Bardet-Biedl syndrome,22773737,,1 (Computational tools predict an impact on function and/or splicing),11_66523882_G/A
+Cohen syndrome,16648375,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),8_99135733_G/A
+Breast cancer,21285249,Splicing regulation,Other,16_23629231_G/A
+Not provided,,,,11_2583545_G/C
+Long QT syndrome,21810471,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_2583545_G/A
+Long QT syndrome,17292394,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_2583545_G/A
+Cardiovascular phenotype;Long QT syndrome;Long QT syndrome 1;Long QT syndrome 2;not provided,10477533|10973849|19716085|21810471|22629021|27485560|28492532|9570196|9654228|9799083,,,11_2583545_G/A
+Long QT syndrome,10477533,Splicing regulation,Other,11_2583545_G/C
+Long QT syndrome,22629021,,2 (Case-control studies significantly associate the variant to disease),11_2583545_G/A
+Long QT syndrome,9654228,Splicing regulation,Other,11_2583545_G/A
+Cystic fibrosis,22591852,Splicing regulation,Other,7_117627647_G/T
+Machado-Joseph disease,20077034,Splicing regulation,Other,14_92096773_A/G
+Retinal degeneration,17407589,,Other,11_17531431_C/T
+Usher syndrome,18665195,,Other,11_17531431_C/T
+"Usher syndrome;Usher syndrome, type 1;Usher syndrome, type 1C",NBK1265|10973248|11139240|11239869|11810303|12630964|15578223|17174357|17407589|20095043|20301442|21436283|23891399|24033266|28041643,,,11_17531431_C/T
+Usher syndrome type 1,10973248,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_17531431_C/T
+Usher syndrome,23380860,Splicing regulation,2 (In vivo data from mammalian model organisms suggest an impact on function),11_17531431_C/T
+Melanoma,23901115,,Other,7_113878248_C/T
+Melanoma,23901115,,Other,11_56137533_G/A
+"Glycogen storage disease, type II",14695532|17616415|19609281|20202878|21179066|21484825|21982629|22196155|23891399|25037089|25741868|28492532,,,17_80105132_G/A
+Glycogen storage disease type II,14695532,Splicing regulation,Other,17_80105132_G/A
+Melanoma,23901115,,Other,21_13618402_G/A
+Tuberous sclerosis,12015165,Splicing regulation,Other,16_2076170_G/A
+Loeys-Dietz syndrome 2,15235604|25741868|8317497,,,3_30688511_G/A
+Marfan syndrome,15235604,Splicing regulation,Other,3_30688511_G/A
+"Mental retardation, X-linked, syndromic, Hedera type",11782983|15746149,,,X_40597269_C/T
+X-linked mental retardation and epilepsy,15746149,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),X_40597269_C/T
+X-linked mental retardation hedera type,23595882,Splicing regulation,Other,X_40597269_C/T
+Familial porphyria cutanea tarda,9792863,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_45015006_G/A
+Cystic fibrosis,23974870,,Other,7_117606753_G/A
+Cystic fibrosis,25066652,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),7_117606753_G/A
+Cystic fibrosis,7472820,Splicing regulation,Other,7_117606753_G/A
+Cystic fibrosis;Hereditary pancreatitis,16436646|23974870|25066652,,,7_117606753_G/A
+McArdle's disease,12929201,Splicing regulation,Other,11_64751597_C/T
+McArdle's disease,23653251,Splicing regulation,Other,11_64751597_C/T
+Myophosphorylase deficiency,17324573,Splicing regulation,Other,11_64751597_C/T
+McArdle's disease,14638972,Splicing regulation,Other,11_64751597_C/T
+Creutzfeldt-Jakob Disease,20077034,Splicing regulation,Other,20_4699979_A/G
+Congenital disorder of glycosylation type Ia,15844218,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),16_8804843_G/A
+Melanoma,23901115,,Other,10_116597853_C/T
+Hermansky-Pudlak syndrome 5,28640947,,,11_18311914_C/T
+Marfan syndrome,9241263,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_48437347_G/A
+Cardiovascular phenotype;Marfan Syndrome/Loeys-Dietz Syndrome/Familial Thoracic Aortic Aneurysms and Dissections;Marfan syndrome;not provided,11137998|11967553|12938084|1569206|16995940|17224687|17884807|18435798|19720936|24033266|24199744|8406497|9241263|11137998|11967553|12938084|1569206|16995940|17224687|17884807|18435798|19720936|24033266|24199744|8406497|9241263,,,15_48437347_G/A
+Hereditary cancer-predisposing syndrome,15459959|20223039,,,5_112835164_A/C
+Galactosaemia,22944367,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),9_34649519_C/G
+"Abnormal macular morphology;Blindness;Pigmentary retinopathy;Retinal pigment epithelial atrophy;Retinitis pigmentosa 39;Rod-cone dystrophy;Usher syndrome, type 2A;not provided",15015129|15043528|15241801|15325563|16963483|18273898|20513143|21569298|23891399|24033266|25741868,,,1_216325499_G/T
+Usher syndrome type 2A,15241801,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),1_216325499_G/T
+"Neurofibromatosis, type 1;not provided",21354044|21520333|22925204|28492532,,,17_31338748_A/G
+Familial adenomatous polyposis;Familial adenomatous polyposis 1;not provided,25741868|28492532,,,5_112835163_C/T
+Ataxia telangiectasia,20077034,Splicing regulation,Other,11_108330364_A/G
+"Usher syndrome, type 2C",,,,5_90644869_G/A
+"Epileptic encephalopathy, early infantile, 48",27889060,,,15_82679729_C/T
+Hyperimmunoglobulin D and periodic fever syndrome,16255052,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),12_109574897_C/T
+"Glaucoma 1, open angle, F",10037570|22156576,,,7_151181233_G/A
+Open-angle glaucoma,22156576,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),7_151181233_G/A
+6-pyruvoyl-tetrahydropterin synthase deficiency,10319579,Splicing regulation,Other,11_112230682_G/A
+Abetalipoproteinaemia,8533758,Splicing regulation,Other,4_99611453_G/A
+Acetoacetyl-CoA-thiolase deficiency,20488739,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_108143993_C/T
+Acetoacetyl-CoA-thiolase deficiency,23348723,Splicing regulation,Other,11_108143993_C/T
+Adenylosuccinate lyase deficiency,10090474,Splicing regulation,Other,22_40358999_C/A
+Adrenoleukodystrophy,7581394,,Other,X_153736254_G/A
+Aniridia,25678763,Splicing regulation,Other,11_31802704_C/T
+Chronic renal failure,27269891,,Other,17_3656795_G/A
+Arab cystinosis,19852576,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_3656795_G/A
+Arrhythmogenic right ventricular dysplasia,23354045,Splicing regulation,Other,12_32796114_G/A
+"Breast, Endometrial cancer, colon polyps",26681312,,Other,11_108256340_G/A
+Ataxia telangiectasia,9463314,Splicing regulation,Other,11_108256340_G/A
+Ataxia telangiectasia,14695534,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),11_108243969_C/T
+Malignant neoplasm,26681312,,Other,11_108332037_G/A
+Ataxia telangiectasia,9792409,Splicing regulation,Other,11_108332037_G/A
+Ataxia with vitamin E deficiency,9463307,Splicing regulation,Other,8_63072987_T/C
+Autosomal recessive anophthalmia/microphthalmia,24568872,Splicing regulation,Other,15_100894082_G/A
+Autosomal recessive primary microcephaly,28892560,Splicing regulation,Other,1_200565069_C/T
+Bardet-Biedl syndrome,21344540,,Other,16_56519746_C/T
+Bardet-Biedl syndrome,24400638,Splicing regulation,Other,11_66531742_G/A
+Bardet-Biedl syndrome,21344540,,Other,16_56511159_C/A
+Becker muscular dystrophy,20485447,Splicing regulation,Other,X_32310082_C/T
+Beta-ureidopropionase deficiency,24328561,Splicing regulation,Other,22_24495496_C/T
+BRCA,26437032,Splicing regulation,Other,19_17516280_G/A
+Breast cancer,24667779,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_43115728_G/A
+Breast cancer,24556926,Splicing regulation,Other,16_23641110_C/T
+Breast cancer,28477318,,Other,13_32379913_G/A
+Brugada syndrome,20129283,,Other,3_38603712_C/T
+Brugada syndrome,24321233,,Other,12_2581590_G/A
+Canavan disease,21907889,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),17_3481798_G/A
+Cerebrotendinous xanthomatosis,21073839,,Other,2_218813096_G/C
+Chorea-acanthocytosis,12404112,,2 (Case-control studies significantly associate the variant to disease),9_77356867_G/A
+Chorea-acanthocytosis,12404112,,2 (Case-control studies significantly associate the variant to disease),9_77407607_G/A
+Chronic granulomatous disease,20167518,Splicing regulation,Other,16_88646197_C/A
+Coagulation factor XI,11127865,Splicing regulation,Other,4_186280383_G/T
+Hereditary nonpolyposis colon cancer syndrome,16395668,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),3_37042331_G/A
+Colon cancer,26681312,,Other,3_37042331_G/A
+Colorectal cancer,28135145,,Other,3_37042331_G/T
+Colorectal cancer,28334867,Splicing regulation,Other,3_37008903_C/T
+Congenital adrenal hyperplasia,8964882,Splicing regulation,Other,8_142876241_C/T
+Congenital hyperinsulinism,20685672,,Other,11_17453119_C/T
+Congenital myasthenic syndrome,17363247,Splicing regulation,Other,17_4900855_G/A
+Cornelia de Lange syndrome,27291393,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),5_37017162_G/A
+Coronary artery disease,22065502,Splicing regulation,3 (Significant segregation in affected family members (LOD >2)),1_156138757_G/A
+Premature aging syndromes,25649378,Protein synthesis,Other,1_156138757_G/A
+Craniofrontonasal syndrome,16685650,Splicing regulation,Other,X_68829806_C/T
+Crouzon syndrome,25174698,Splicing regulation,Other,10_121517320_T/C
+Cystic fibrosis,25636364,Splicing regulation,Other,7_117509142_G/C
+Cystic fibrosis,27081564,Splicing regulation,Other,7_117603781_A/C
+Cystic leukoencephalopathy,19525954,Splicing regulation,Other,6_166931044_C/T
+Dilated cardiomyopathy,20474083,,Other,1_201365191_G/A
+Dravet syndrome,20431604,,Other,2_166045043_C/T
+Dravet syndrome,22612257,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),2_166052853_T/A
+Duchenne Muscular dystrophy,19602481,,Other,X_31479023_C/T
+Dystonia-parkinsonism,26668131,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),22_38143105_C/T
+Ehlers-Danlos syndrome,23587214,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),2_189062865_C/T
+Ehlers-Danlos syndrome IV,24922459,,Other,2_189010890_G/A
+Ehlers-Danlos syndrome VI,10874315,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_11960765_C/T
+Epidermolysis bullosa dystrophica,12207583,Splicing regulation,Other,3_48580897_G/A
+Epidermolysis bullosa dystrophica,19681861,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_48578354_G/A
+Epidermolysis bullosa dystrophica,19681861,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),3_48572133_G/A
+Epidermolysis bullosa dystrophica,19681861,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_48572127_C/T
+Epidermolysis bullosa with pyloric atresia,16473856,,Other,17_75727505_G/A
+Epileptic encephalopathies,28965491,Splicing regulation,Other,3_132671881_G/A
+Epithelial recurrent erosion dystrophy,26786512,,Other,10_104037688_G/A
+Epithelial recurrent erosion dystrophy,25676728,Splicing regulation,Other,10_104037688_G/A
+Erythropoietic protoporphyria,28054335,,Other,18_57571536_G/A
+Factor V deficiency,25470420,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_169552572_G/C
+Familial adenomatous polyposis,15459959,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),5_112835163_C/T
+Familial adenomatous polyposis,15459959,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),5_112835164_A/C
+Familial adenomatous polyposis,20223039,,Other,5_112801383_G/A
+Familial adenomatous polyposis,23159591,,1 (Computational tools predict an impact on function and/or splicing),5_112801383_G/A
+Familial adenomatous polyposis,11768390,Splicing regulation,Other,5_112835076_G/T
+Familial adenomatous polyposis,15459959,Splicing regulation,Other,5_112835076_G/T
+Familial X-linked hypophosphatemic vitamin D refractory rickets,,,,X_22077630_A/G
+Fanconi anaemia,23613520,Splicing regulation,Other,16_89783007_C/T
+Fanconi anaemia,16429406,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),9_95125086_C/T
+Fructose intolerance,12205126,Splicing regulation,Other,9_101429755_C/T
+GAPO syndrome,25045128,Splicing regulation,Other,2_69071786_A/G
+Glanzmann's thrombasthenia,21113249,Splicing regulation,Other,17_44374354_C/T
+Glycogen storage disease 2,20202878,Protein synthesis,Other,17_80105132_G/T
+Glycogen-storage disease type II,19609281,Splicing regulation,Other,17_80105132_G/T
+Pompe disease,21982629,Protein synthesis,Other,17_80105132_G/T
+"Glycogen storage disease, type II",17723315,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),17_80113027_G/A
+GM1 gangliosidosis,19472408,Splicing regulation,Other,3_33068970_C/A
+GNE myopathy,25966635,Splicing regulation,Other,9_36236890_C/T
+Growth hormone deficiency,17073157,,Other,17_63917760_C/T
+Haemophilia A,1639429,Splicing regulation,Other,X_154957140_C/A
+X-linked bleeding disorder hemophilia A,9792405,Splicing regulation,Other,X_154957140_C/A
+Haemophilia A,1924291,,Other,X_154904811_C/T
+Haemophilia B,2198809,Splicing regulation,Other,X_139537074_A/G
+Haemorrhagic telangiectasia,21158752,,Other,9_127819622_C/A
+Hearing loss,23185506,,Other,7_107710169_T/G
+Hearing loss,18575463,Splicing regulation,Other,11_121165331_G/A
+Hereditary optic neuropathy,19319978,Splicing regulation,Other,3_193648134_G/T
+Hereditary spastic paraplegia type 31,18321925,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),2_86254694_C/T
+Hereditary spherocytosis,9450796,Splicing regulation,Other,14_64804939_C/G
+Hermansky-Pudlak syndrome,19334085,Splicing regulation,Other,10_98433983_C/T
+Homocystinuria,25736335,Splicing regulation,Other,1_11793907_C/T
+Hunter syndrome,21829674,Splicing regulation,Other,X_149496346_C/T
+Hypercholesterolemia,17539906,,Other,19_11116998_G/A
+Hypercholesterolemia,22881376,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),19_11113679_G/A
+Hypohidrotic ectodermal dysplasia,27305980,Splicing regulation,Other,X_70033405_A/G
+Hypothyroidism,20534762,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),1_115033524_G/A
+Inborn genetic diseases,11719191|15713948|15866163|15866164|18334222|1999432|21903672|22110128|22495309|22682243|23033978|23499309|24431282|24614104|24668549|25326669|25533962|27915094|28575650|8227220|8582267|9060476,,,3_41234297_G/C
+Inborn genetic diseases,16806828|16829045|17301226|18469812|19557857|20196795|20876469|20887364|21062273|21204804|21364700|21762454|21770924|22495311|22722545|23020937|23409955|24623842|24836964|25621899|25714420|25914188|26514728|26537360|26865513|27184330|9545644,,,9_127673261_G/A
+Infantile neuroaxonal dystrophy,26668131,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),22_38132958_C/A
+Intellectual disability,22405089,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),6_157198907_G/A
+"Intellectual disability, stereotypic movements, epilepsy and/or cerebral malformations",25131622,,Other,5_88804598_C/T
+Interstitial lung disease,27362365,Splicing regulation,Other,8_22163546_G/A
+Kallmann syndrome,12627230,,3 (Significant segregation in affected family members (LOD >2)),8_38424509_C/T
+Kidney renal clear cell carcinoma,26437032,Splicing regulation,Other,6_138912765_C/T
+Krabbe's Diseases,8940268,Splicing regulation,Other,14_87992970_C/G
+Laron dwarfism,9024232,Splicing regulation,Other,5_42711311_C/T
+Laron-type isolated somatotropin defect,25741868,,,5_42718121_G/A
+Late onset glycogen storage disease type II,16917947,,2 (Case-control studies significantly associate the variant to disease),17_80111015_C/G
+Leigh's encephalomyelopathy,7898978,Splicing regulation,Other,X_19354535_A/G
+Pyruvate dehydrogenase deficiency,18273899,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),X_19354535_A/G
+Lennox-Gastaut syndrome,23934111,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),5_179615591_T/C
+Lennox-Gastaut syndrome,25262651,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),15_92929038_C/T
+Locus heterogeneity of retinal dystrophies,26355662,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_40774356_C/T
+Long QT syndrome,19716085,,Other,11_2778037_G/A
+Long QT syndrome,15840476,,Other,7_150950921_C/T
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,1_109236548_G/A
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,1_200815644_G/A
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,4_88131061_C/T
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,7_105062278_G/T
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,11_117192014_G/C
+Malignant tumor of prostate,26046662,,,5_75590425_G/A
+Maple syrup urine disease,1547285,Splicing regulation,Other,1_100210694_C/T
+Marfan syndrome,24161884,,Other,15_48510057_C/A
+Marfan syndrome,21907952,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_48437004_G/A
+Marfan syndrome,19012347,,Other,15_48537633_A/G
+Maturity-onset diabetes of the young,21288587,Splicing regulation,Other,7_44150980_A/C
+Maturity-onset diabetes of the young 2,18248649,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),7_44188909_C/T
+McArdle's disease,19472443,Splicing regulation,Other,11_64746758_G/A
+Menkes syndrome,24100245,Splicing regulation,Other,X_78020398_G/A
+Monogenic diabetes,25850297,Splicing regulation,Other,7_44149773_G/C
+Mucolipidosis II,23566849,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),12_101761671_T/C
+Mucolipidosis II,25788519,Splicing regulation,Other,12_101761671_T/C
+Mucolipidosis type IV,17239335,Splicing regulation,Other,19_7533651_A/T
+Mucopolysaccharidosis II or fibroblasts,27837218,Splicing regulation,Other,X_149487013_A/T
+Mucopolysaccharidosis IIIA,21061399,,2 (Case-control studies significantly associate the variant to disease),17_80213823_G/A
+Multiple congenital anomalies-hypotonia-seizures syndrome 1,28273706,,Other,18_62143306_C/T
+Myasthenia and myopathy,24759841,Splicing regulation,Other,11_119100766_C/G
+Myotonia congenita,28427807,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),7_143323386_G/A
+Myotubular myopathy,12522554,Splicing regulation,Other,X_150619112_A/G
+Nephronophthisis-related ciliopathy,24746959,,Other,7_33351322_A/G
+Neurofibromatosis type 1,26740943,Splicing regulation,Other,17_31235650_C/A
+Neurofibromatosis type 1,16944272,,Other,17_31159093_G/T
+Niemann-Pick Type C disease,12955717,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),18_23541387_C/T
+Nonketotic Hyperglycinemia,24838951,Splicing regulation,Other,3_49421492_C/T
+Oral-facial-digital type I syndrome,18546297,,Other,X_13735346_G/A
+Ornithine carbamoyltransferase deficiency,23278509,Splicing regulation,Other,X_38409025_G/A
+Ornithine transcarbamylase deficiency,25711267,,3 (Significant segregation in affected family members (LOD >2)),X_38403740_G/A
+Pancreatic cancer,26681312,,Other,16_23629231_G/A
+Partial X-linked nephrogenic diabetes insipidus,26795631,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),X_153905782_A/G
+Phosphoglycerate kinase deficiency,17661373,,Other,X_78118168_C/T
+Pompe disease,18425781,,Other,17_80110055_G/A
+Pompe disease,25243733,Splicing regulation,Other,17_80110055_G/A
+Pontocerebellar hypoplasia,20952379,Splicing regulation,Other,17_75517072_G/C
+Premature ovarian failure,21624127,Splicing regulation,Other,1_22129734_G/A
+Primary ciliary dyskinesia,23993197,Splicing regulation,Other,21_42485804_C/T
+Pseudoxanthoma elasticum,16086317,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),16_16159482_C/T
+"Psychomotor retardation, brain atrophy, recurrent apneas and delayed myelination",27206732,Splicing regulation,Other,2_196890828_C/G
+Retinal disease,28327576,,1 (Computational tools predict an impact on function and/or splicing),1_94120980_C/T
+Retinitis pigmentosa,23591405,,Other,1_215790059_C/T
+Retinoblastoma,21763628,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),13_48373483_C/T
+"Say-Barber-Biesecker/Young-Simpson (SBBYS) type of blepharophimosis-""mental retardation"" syndromes",26334766,Splicing regulation,Other,10_75022006_G/A
+Severe combined immunodeficiency,14615376,Splicing regulation,Other,19_17831245_G/A
+Spastic paraplegia,11309678,Splicing regulation,Other,2_32128476_A/G
+Tay-Sachs disease,25606403,Splicing regulation,Other,15_72346552_G/A
+Tay-Sachs disease,20363167,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_72346552_G/A
+Tetralogy of fallot,23403794,,2 (Case-control studies significantly associate the variant to disease),6_105133412_A/G
+The hutchinson-gilford progeria syndrome,16248985,Splicing regulation,Other,1_156138703_G/T
+The limb girdle muscular dystrophies,16141003,,Other,15_42401810_G/A
+Treacher collins syndrome,19572402,Splicing regulation,Other,5_150393383_A/C
+Tyrosinaemia 2,16917729,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),16_71568711_C/A
+Uterine corpus endometrial carcinoma,26437032,Splicing regulation,Other,3_23887699_G/A
+Uterine corpus endometrial carcinoma,26437032,Splicing regulation,Other,21_41237729_G/A
+Usher syndrome,20497194,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_77207402_G/A
+Usher syndrome type 1,16470552,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),11_77207402_G/A
+Usher syndrome type 2A,22004887,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_215900181_T/C
+Usher syndrome type 1,12075507,Splicing regulation,Other,10_71707048_A/C
+Von Hippel-Lindau syndrome,17006605,Splicing regulation,Other,3_10146635_A/C
+Von Hippel-Lindau syndrome,15300849,,Other,3_10146635_A/C
+Von Willebrand disease 3,27543438,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),12_5971683_G/A
+Werner syndrome,23936869,Splicing regulation,Other,8_31067089_A/G
+X-linked Hydrocephalus,25039760,,Other,X_153870123_G/A
+X-linked intellectual disability,23871722,Splicing regulation,Other,X_40597269_C/T
+X-linked mental retardation,17236139,Splicing regulation,Other,X_120532422_C/T
+X-linked mental retardation,19377476,Splicing regulation,Other,X_120532422_C/T
+Primary adrenal insufficiency,30620006,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),15_74339300_G/A
+Combined pituitary hormone deficiency,30888394,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_57198891_G/A
+Cystic fibrosis,30996306,Protein synthesis,1 (Computational tools predict an impact on function and/or splicing),7_117666946_C/T
+Lethal neonatal rigidity and multifocal seizure syndrome,30346566,Splicing regulation,Other,7_2540979_C/G
+Crouzon syndrome,7558045,Splicing regulation,Other,10_121517371_C/T
+Crouzon syndrome,9611066,Splicing regulation,Other,10_121517371_C/T
+Crouzon syndrome,7987400,Splicing regulation,Other,10_121517371_C/T
+"Craniosynostosis;Craniosynostosis, nonclassifiable autosomal dominant;Crouzon syndrome;Scaphocephaly and axenfeld-rieger anomaly",16158432|25741868|7773284|7874170|7987400|8957519,,,10_121517371_C/T
+Megaloblastic anaemia,22929189,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_17103125_C/T
+Megaloblastic anaemia,22929189,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),10_17123588_C/T
+Hirschsprung's disease,8896569,Splicing regulation,Other,10_43114547_G/A
+Short-rib polydactyly syndrome type III,29068549,,,11_103109769_G/T
+Ataxia telangiectasia,20077034,Splicing regulation,Other,11_108294977_A/C
+Ataxia telangiectasia,20077034,Splicing regulation,Other,11_108316023_T/C
+Ataxia telangiectasia,20077034,Splicing regulation,Other,11_108365430_A/G
+Jervell and Lange-Nielsen syndrome,20890437,Splicing regulation,Other,11_2572986_G/A
+Cardiomyopathies,25849606,Splicing regulation,Other,11_47343533_G/T
+Melanoma,23901115,,Other,11_48325054_C/T
+Beta-plus-thalassemia;beta Thalassemia;not provided;not specified,NBK1426|20301599|23590658|2458145|26044735|2634667|26467025|6572978|6583702|8330981,,,11_5226947_A/T
+Beta-thalassemia,26044735,Splicing regulation,Other,11_5226947_A/T
+Beta-thalassemia,28366028,Splicing regulation,Other,11_5226947_A/T
+Beta-thalassemia,6572978,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),11_5226947_A/T
+Thalassaemia beta,19205975,Splicing regulation,Other,11_5226971_G/A
+Late-infantile form of neuronal ceroid lipofuscinosis,10330339,Splicing regulation,Other,11_6618780_T/C
+Pregnancy loss,25059562,Splicing regulation,2 (Case-control studies significantly associate the variant to disease),12_101729109_A/G
+Recurrent pregnancy loss,19110213,Splicing regulation,Other,12_101729109_A/G
+"Mucolipidosis III alpha/beta, atypical;Pseudo-Hurler polydystrophy",NBK1875|15633164|20301730,,,12_101780152_C/T
+Darier's disease,20423818,,Other,12_110323047_A/G
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,12_14796807_C/T
+Von Willebrand disease 2A/IIE,23621778,Splicing regulation,Other,12_6022888_G/A
+Leber congenital amaurosis,20683928,Splicing regulation,Other,12_88117033_C/T
+Propionic acidemia,15059621,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),13_100368574_G/A
+Restless legs syndrome,27569842,Splicing regulation,Other,14_39158402_C/T
+"Anemia, sideroblastic, pyridoxine-refractory, autosomal recessive",17485548|20364084,,,14_95535383_A/G
+Pyridoxine-refractory sideroblastic anaemia,17485548,Splicing regulation,Other,14_95535383_A/G
+Albinism,24361966,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),15_27871863_C/T
+Congenital stationary night blindness,19896113,,Other,15_31060544_C/T
+Coronal craniosynostosis,23354436,Splicing regulation,Other,15_57232427_C/G
+Tay-Sachs disease,9090523,Splicing regulation,Other,15_72353068_C/T
+Tay-Sachs disease,2139660,Splicing regulation,Other,15_72353068_C/T
+Kidney renal clear cell carcinoma,26437032,Splicing regulation,Other,15_73947223_G/A
+Hereditary tyrosinemia type 1,8557261,Splicing regulation,Other,15_80172238_C/T
+"Tyrosinemia,type 1",24178616,Splicing regulation,Other,15_80172238_C/T
+Mainzer-Saldino syndrome,22503633,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),16_1592469_G/A
+Tuberous sclerosis without renal manifestations,28336152,Protein synthesis,Other,16_2084371_C/T
+Autosomal dominant polycystic kidney disease,24575920,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),16_2090285_C/T
+Autosomal dominant polycystic kidney disease,24907393,Splicing regulation,Other,16_2092492_G/T
+Familial Mediterranean fever,24158885,,Other,16_3243195_C/A
+Hyperammonaemia,24530203,Splicing regulation,Other,16_87902425_C/T
+"Primary microcephaly, ambiguous male genitalia, dysmorphic facies, polydactyly, and renal agenesis",27480277,Protein synthesis,Other,16_88713447_G/A
+Dysmorphology syndromes,26633546,,Other,16_88713447_G/A
+Fanconi anaemia A,17924555,Splicing regulation,Other,16_89744961_G/A
+Fanconi anaemia A,17924555,Splicing regulation,Other,16_89784854_C/T
+Frontotemporal dementia with parkinsonism,10318930,Splicing regulation,Other,17_46010339_T/C
+Progressive supranuclear palsy,16477083,,Other,17_46010402_T/C
+Progressive supranuclear palsy,10775534,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_46010402_T/C
+Argyrophilic grain disease,24337498,,Other,17_46010402_T/C
+Progressive supranuclear palsy,18093153,Splicing regulation,Other,17_46010402_T/C
+"Ataxia, spastic, 2, autosomal recessive",24482476,,,17_5000848_G/A
+Pontocerebellar hypoplasia,20952379,Splicing regulation,Other,17_75522332_A/G
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,17_7675994_C/A
+Cancer susceptibility,1467311,Splicing regulation,Other,17_7675994_C/A
+Li-Fraumeni syndrome,11420676,Splicing regulation,Other,17_7675994_C/A
+Li-Fraumeni syndrome,10864200,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_7675994_C/G
+Pompe disease,30922962,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),17_80105096_C/T
+Arrhythmogenic right ventricular cardiomyopathy,23812740,,Other,18_31079989_C/T
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,18_57694582_C/T
+Erythrokeratodermia variabilis et progressiva 4,28575652,,,18_63335257_C/T
+Familial hypercholesterolemia;Familial hypercholesterolemias,17094996|17335829|18400033|19371225|20809525|21157333|21382890|25741868|25846081|25911074|28028493,,,19_11113307_C/A
+Hypercholesterolemia,18400033,Splicing regulation,Other,19_11113307_C/A
+Hypercholesterolemia,19371225,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),19_11113307_C/A
+Familial hypercholesterolemia,21157333,Splicing regulation,Other,19_11113307_C/A
+Hypercholesterolemia,22881376,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),19_11113307_C/A
+Hypercholesterolemia,17335829,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),19_11113307_C/A
+Familial hypercholesterolemia,20809525|25624525|25741868,,,19_11116966_C/T
+Autosomal dominant hypercholesterolemia,20809525,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),19_11116966_C/T
+Hypercholesterolemia,25624525,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),19_11116966_C/T
+Autosomal recessive severe combined immunodeficiency,9354668,Splicing regulation,Other,19_17837148_G/A
+Cyclic neutropenia,23463630,Splicing regulation,Other,19_855764_C/G
+Cyclic neutropenia,23463630,Splicing regulation,Other,19_855767_G/A
+Polymorphic ventricular tachycardia,21618644,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_115740767_G/A
+Erythrocyte pyruvate kinase deficiency,9160692,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_155293438_C/G
+Polycystic kidney disease,8730344,Splicing regulation,Other,1_155293438_C/T
+Pyruvate kinase deficiency,9166866,Splicing regulation,Other,1_155293438_C/T
+Neonatal progeria,22419169,,Other,1_156138610_G/A
+Hutchinson-Gilford syndrome;not provided,NBK1121|17469202|20301300,,,1_156138610_G/A
+Hutchinson-Gilford progeria syndrome,17469202,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_156138610_G/A
+Variegate porphyria,18570668,Splicing regulation,Other,1_161168127_G/A
+Charcot-Marie-Tooth disease type 1B,19475438,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),1_161306880_C/T
+Antithrombin deficiency,16705712,Splicing regulation,Other,1_173909553_T/C
+Chronic granulomatous disease,19624736,Splicing regulation,Other,1_183564005_C/T
+Multiple sclerosis,11967553,Splicing regulation,Other,1_198694061_A/T
+Lung squamous cell carcinoma,26437032,Splicing regulation,Other,1_211978272_C/A
+Schwartz-Jampel syndrome,11101850,,Other,1_21864100_C/T
+Multiple epiphyseal dysplasia,12244547,,Other,1_40314352_C/G
+BRCA,26437032,Splicing regulation,Other,1_62834852_G/A
+Leber congenital amaurosis,,,,1_68438214_T/C
+Argardt disease and cone-rod dystrophy,21911583,Protein synthesis,Other,1_94001046_C/T
+Stargardt disease,23918662,Splicing regulation,Other,1_94001046_C/T
+Stargardt disease 1;not provided,23891399|23918662|28041643,,,1_94001046_C/T
+Retinal disease,23982839,Splicing regulation,Other,1_94021846_C/G
+Retinitis pigmentosa,22334370,,Other,1_94077690_C/T
+X-linked hyper IgM syndrome,11675497,Splicing regulation,Other,20_46123130_A/T
+Collagen VI myopathy,20976770,Splicing regulation,Other,21_46114073_G/A
+Cataract,21031021,Splicing regulation,Other,22_25221483_G/A
+Breast cancer,22862163,,Other,22_28734485_T/C
+Congenital hypothyroidism,15745925,Splicing regulation,Other,2_1540723_G/A
+Myoclonic epilepsy of infancy,19350499,,Other,2_165998038_C/T
+Dilated cardiomyopathy,25589632,Splicing regulation,Other,2_178783720_C/A
+Benign familial hematuria,26934356,,,2_227253638_G/T
+Lynch syndrome,,,,2_47414418_G/A
+Hereditary nonpolyposis colorectal cancer,10777691,Splicing regulation,Other,2_47414418_G/A
+Hereditary optic neuropathy,19319978,Splicing regulation,Other,3_193645624_A/G
+Cardiovascular phenotype;not provided,,,,3_38554373_G/A
+Brugada syndrome,19843921,Splicing regulation,Other,3_38554373_G/A
+Brugada syndrome,20129283,,Other,3_38557231_C/T
+Kidney renal clear cell carcinoma,26437032,Splicing regulation,Other,3_47017638_C/T
+Dystrophic epidermolysis bullosa pruriginosa,21574979,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_48572725_C/G
+Not provided,,,,3_69964897_G/A
+Waardenburg syndrome,21438779,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),3_69964897_G/A
+Melanoma,23901115,,Other,3_98264938_C/T
+Atrioventricular septal defect,29054759,,2 (Case-control studies significantly associate the variant to disease),3_9943499_G/T
+Beta-mannosidosis,18565776,Splicing regulation,Other,4_102723865_T/C
+Congenital myasthenic syndrome,22661499,Splicing regulation,Other,4_3463423_C/T
+Congenital myasthenic syndrome,22661499,Splicing regulation,Other,4_3476424_C/T
+Hyaline fibromatosis syndrome,14508707|22383261,,,4_79983878_C/T
+Hyaline fibromatosis syndrome,14508707,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),4_79983878_C/T
+Polycystic kidney disease 2,26692149,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),4_88052158_G/A
+Pyridoxine-dependent epilepsy,23350806,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),5_126595040_G/A
+Netherton syndrome,26997095,Splicing regulation,Other,5_148088605_G/A
+Netherton syndrome,22377713,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),5_148097875_C/T
+Netherton syndrome,25665175,Splicing regulation,1 (Computational tools predict an impact on function and/or splicing),5_148097875_C/T
+Netherton syndrome,22089833,Splicing regulation,Other,5_148097875_C/T
+Autosomal recessive retinitis pigmentosa,25999674,,Other,5_149907345_G/A
+Oculocutaneous albinism,26016411,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),5_33963691_C/T
+Retinitis pigmentosa with or without skeletal anomalies,10420199|28285769,,,5_64785579_G/A
+Malignant tumor of prostate,26046662,,,5_75596385_G/A
+Autosomal recessive polycystic kidney disease,28364132,Protein synthesis,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),6_52084883_T/C
+Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type),25741868,,,6_98899268_C/T
+Hearing loss,23185506,,Other,7_107701928_G/A
+Cystic fibrosis,10447267,,Other,7_117542108_G/A
+Melanoma,30451293,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),7_124870911_C/T
+Kell phenotypes,17381630,,Other,7_142943328_G/A
+Kell phenotypes,24795954,Splicing regulation,Other,7_142943328_G/A
+Cardiovascular phenotype;Long QT syndrome;not provided,10973849|11854117|15840476|19038855|19716085|19841300|25294783|25929701|26066609|28492532,,,7_150957291_C/T
+Long QT syndrome,10973849,,2 (Case-control studies significantly associate the variant to disease),7_150957291_C/T
+Currarino syndrome,24095820,,1 (Computational tools predict an impact on function and/or splicing),7_157005856_C/T
+Maturity-onset diabetes,19564454,Splicing regulation,Other,7_44150956_C/T
+Aromatic L-amino acid decarboxylase deficiency,20505134,,Other,7_50499148_C/T
+Gordon Holmes syndrome,27441066,Splicing regulation,Other,7_5711761_C/T
+Neurological disorders,25558065,,Other,7_5711761_C/T
+Nonsyndromic hearing loss,19576567,Splicing regulation,Other,7_81752250_C/T
+11beta-hydroxylase deficiency,11095433,Splicing regulation,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),8_142876241_C/G
+Haemorrhagic telangiectasia or Osler-Rendu-Weber syndrome,15024723,Splicing regulation,Other,9_127818716_C/T
+Osler hemorrhagic telangiectasia syndrome,28492532,,,9_127819622_C/G
+Hereditary Hemorrhagic Telangiectasia,9554745,Splicing regulation,Other,9_127819622_C/G
+Pelizaeus-Merzbacher disease,23891399,,,X_103786726_G/A
+Pelizaeus-Merzbacher disease,16287154,Splicing regulation,Other,X_103786726_G/A
+Haemophilia B,24375831,,Other,X_139530851_A/G
+Haemophilia B,28007939,Protein synthesis,Other,X_139548430_G/A
+Haemophilia B,1873221,Splicing regulation,Other,X_139548430_G/A
+Haemophilia B,18459950,,Other,X_139548430_G/A
+Haemophilia B,21878961,,Other,X_139548430_G/A
+Haemophilia B,24375831,,Other,X_139548455_C/A
+Haemophilia B,24375831,,Other,X_139551264_G/A
+Mucopolysaccharidosis type II,30639582,Splicing regulation,Other,X_149486983_G/A
+Mucopolysaccharidosis type II,8940265,Splicing regulation,Other,X_149486983_G/A
+Mucopolysaccharidosis II,26407519,Splicing regulation,Other,X_149486983_G/A
+Mucopolysaccharidosis type II,8940265,Splicing regulation,Other,X_149498107_C/T
+Creatine deficiency syndrome,17101918,Splicing regulation,Other,X_153693175_G/A
+Haemophilia A,25503412,Splicing regulation,Other,X_154969371_T/A
+Splicing regulation,18023225,Splicing regulation,Other,X_19353161_C/T
+Progressive hearing loss,24123792,,Other,X_21743750_C/T
+Becker muscular dystrophy,19783145,Splicing regulation,Other,X_32463439_C/T
+Chronic granulomatous disease,22015033,Splicing regulation,Other,X_37783600_G/A
+Chronic granulomatous disease,8634410,Splicing regulation,Other,X_37783600_G/A
+"Chronic granulomatous disease, X-linked;not provided",10914676|8634410|8900212|8916969|9585602,,,X_37783600_G/A
+Ornithine transcarbamylase deficiency,9266388,Splicing regulation,Other,X_38408795_G/A
+Static encephalopathy of childhood with neurodegeneration in adulthood,23435086,,1 (In vitro data from recombinant DNA constructs or proteins suggest an impact on function),X_49075866_C/G
+Androgen insensitivity syndrome,11397856,Splicing regulation,Other,X_67723745_C/T
+X-linked ocular albinism,9887374,,Other,X_9760717_C/T

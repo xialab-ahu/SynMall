@@ -1,0 +1,25 @@
+Allele_Registry_Id,Disease,Mondo_Id,Assertion,Variant38
+CA8603151,Glanzmann thrombasthenia,MONDO:0100326,Likely Benign,17_44380883_G/A
+CA229379,phenylketonuria,MONDO:0009861,Pathogenic,12_102843648_T/A
+CA229376,phenylketonuria,MONDO:0009861,Likely Pathogenic,12_102843651_T/C
+CA229845,phenylketonuria,MONDO:0009861,Likely Pathogenic,12_102851687_C/T
+CA229457,phenylketonuria,MONDO:0009861,Uncertain Significance,12_102912791_C/T
+CA025994,"breast-ovarian cancer, familial, susceptibility to, 2",MONDO:0012933,Pathogenic,13_32379913_G/A
+CA016495,Marfan syndrome,MONDO:0007947,Pathogenic,15_48437004_G/A
+CA269540,hereditary breast cancer,MONDO:0016419,Likely Pathogenic,16_23629231_G/A
+CA186229,CDH1-related diffuse gastric and lobular breast cancer,MONDO:0007648,Pathogenic,16_68812263_G/A
+CA8814895,glycogen storage disease II,MONDO:0009290,Pathogenic,17_80105132_G/A
+CA16041884,glycogen storage disease II,MONDO:0009290,Pathogenic,17_80105132_G/T
+CA294895065,glycogen storage disease II,MONDO:0009290,Uncertain Significance,17_80111015_C/G
+CA272714,Pitt-Hopkins syndrome,MONDO:0012589,Likely Pathogenic,18_55261466_C/T
+CA505743509,"hypercholesterolemia, familial",MONDO:0007750,Uncertain Significance,19_11105572_C/T
+CA034586,"hypercholesterolemia, familial",MONDO:0007750,Uncertain Significance,19_11113679_G/A
+CA500025,"hypercholesterolemia, familial",MONDO:0007750,Uncertain Significance,19_11116998_G/A
+CA314804,guanidinoacetate methyltransferase deficiency,MONDO:0012999,Pathogenic,19_1399793_C/T
+CA16618077,familial adenomatous polyposis 1,MONDO:0021056,Likely Pathogenic,5_112835163_C/T
+CA454592033,monogenic diabetes,MONDO:0015967,Uncertain Significance,7_44188909_C/T
+CA10605540,CDKL5 disorder,MONDO:0100039,Likely Pathogenic,X_18609569_A/G
+CA516771304,T-B+ severe combined immunodeficiency due to gamma chain deficiency,MONDO:0010315,Likely Pathogenic,X_71108277_C/T
+CA10580100,CDH1-related diffuse gastric and lobular breast cancer,MONDO:0007648,Likely Pathogenic,16_68811859_G/A
+CA023436,"hypercholesterolemia, familial",MONDO:0007750,Likely Pathogenic,19_11113307_C/A
+CA213792,monogenic diabetes,MONDO:0015967,Pathogenic,7_44150956_C/T
