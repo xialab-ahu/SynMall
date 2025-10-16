@@ -30,10 +30,11 @@ bash ./download.sh
 
 # 4 ⚙️ Reproduction Workflow
 
-1. `./Code/1-SynMall-Prediction.ipynb` — Construction, training, prediction, and benchmarking of the synScore model.
-2. `./Code/2-Whole-Genome-Prediction.py` — Genome-wide prediction using synScore.
-3. `./Code/3-SynScore-Analysis.ipynb` — Statistical analysis and visualization based on synScore.
-4. `Pre-computed genome-wide (hg38) synScore predictions` can also be obtained via `./download.sh`.
+1. `./Code/1-SynMall-Prediction.ipynb` - Construction, training, prediction, and benchmarking of the synScore model.
+2. `./Code/2-Whole-Genome-Prediction.py` - Genome-wide prediction using synScore.
+3. `./Code/3-SynScore-Analysis.ipynb` - Statistical analysis and visualization based on synScore.
+4. `./Code/4-Feature-Module-Visualization.ipynb` - Visualization code in our manuscript `Figure 2`.
+5. `Pre-computed genome-wide (hg38) synScore predictions` can also be obtained via `./download.sh`.
 
 # 5 🧬 Citation
 
